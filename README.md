@@ -9,7 +9,7 @@ Miguel Bande Rodríguez
 
 ## Descripción del Proyecto
 
-El sistema utiliza variables difusas como la **velocidad relativa** y la **distancia de seguridad** para determinar una **acción óptima**: acelerar, mantener la velocidad o frenar. Las decisiones se basan en un conjunto de reglas difusas diseñadas para representar escenarios de tráfico comunes.
+El sistema utiliza variables difusas como la **velocidad relativa** y la **distancia de seguridad** para determinar una **acción óptima**: acelerar, mantener la velocidad o frenar. Las decisiones se basan en un conjunto de reglas difusas diseñadas para representar escenarios de tráfico comunes. Se puede encontrar la información principal resumida en la presentación dentro de este repositorio.
 
 ### Variables Difusas
 
